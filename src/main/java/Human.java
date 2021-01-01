@@ -22,7 +22,7 @@ public class Human implements CarandHuman {
     }
 
     public void showmainInfo() {
-        System.out.print(age);
+        System.out.print("My age is "+age);
     }
-    
+
 }

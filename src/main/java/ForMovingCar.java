@@ -21,7 +21,7 @@ public class ForMovingCar implements CarandHuman {
     }
 
     public void showmainInfo() {
-      System.out.print(CarName);
+      System.out.print("The car name is "+CarName);
     }
 
 
